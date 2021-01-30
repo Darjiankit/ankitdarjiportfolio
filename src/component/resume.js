@@ -213,7 +213,7 @@ class Resume extends Component {
                     scope="colspan-2"
                     className="d-flex align-self-start pr-0"
                   >
-                  09/2020 – Present
+                  09/2020–Present
                   </th>
                   <th scope="col">
                     <h5 className="font-weight-bold m-0 ml-1">
