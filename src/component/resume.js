@@ -21,7 +21,7 @@ class Resume extends Component {
 
             <hr className=" my-1" />
             <p style={{ textAlign: "justify" }}>
-              Self-motivated 4+ years of practical experienced IT professional
+              Self-motivated 5+ years of practical experienced IT professional
               looking for the opportunity as a Software Developer Position with
               good knowledge and proficiency in JavaScript, HTML, CSS, and
               Mobile responsive web and App development, as well as strong
