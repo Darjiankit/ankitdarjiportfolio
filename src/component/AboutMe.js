@@ -32,7 +32,7 @@ class AboutMe extends Component {
             <ul className="list-group font-weight-bold text-justify ">
               <h6>
                 <li>
-                  2+ years of experience in Front End Web Development with
+                  5+ years of experience in Front End Web Development with
                   Degree in Computer Science with more than two and bring
                   expertise in software Development with organizing information
                   of website
